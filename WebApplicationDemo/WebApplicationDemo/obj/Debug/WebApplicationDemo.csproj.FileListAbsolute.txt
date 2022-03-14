@@ -1,0 +1,8 @@
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\bin\Debug\WebApplicationDemo.exe.config
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\bin\Debug\WebApplicationDemo.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\bin\Debug\WebApplicationDemo.pdb
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\obj\Debug\WebApplicationDemo.csproj.AssemblyReference.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\obj\Debug\WebApplicationDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\obj\Debug\WebApplicationDemo.csproj.CoreCompileInputs.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\obj\Debug\WebApplicationDemo.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\WebApplicationDemo\WebApplicationDemo\obj\Debug\WebApplicationDemo.pdb
