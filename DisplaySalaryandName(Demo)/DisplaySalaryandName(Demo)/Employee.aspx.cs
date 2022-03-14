@@ -13,7 +13,7 @@ namespace DisplaySalaryandName_Demo_
         {
             string source = "data source = DESKTOP-NARUTO\\SQL2019; initial catalog = Training2; integrated security = true;";
             SqlConnection connect = new SqlConnection(source);
-            string query = "Select Name,Salary from Employee";
+            string query = "Select Name,Age from Employee";
             SqlCommand cmd = new SqlCommand(query, connect);
             SqlDataReader dr;
             connect.Open();
