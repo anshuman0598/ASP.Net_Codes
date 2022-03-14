@@ -8,9 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            <asp:GridView ID="GridView1" runat="server" Height="457px" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="770px"></asp:GridView>
-        </div>
+            <asp:GridView ID="GridView1" runat="server" Height="379px" Width="485px"></asp:GridView>
     </form>
 </body>
 </html>
