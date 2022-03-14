@@ -1,0 +1,8 @@
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\bin\Debug\DataTableUsingConsole.exe.config
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\bin\Debug\DataTableUsingConsole.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\bin\Debug\DataTableUsingConsole.pdb
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\obj\Debug\DataTableUsingConsole.csproj.AssemblyReference.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\obj\Debug\DataTableUsingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\obj\Debug\DataTableUsingConsole.csproj.CoreCompileInputs.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\obj\Debug\DataTableUsingConsole.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataTableUsingConsole\DataTableUsingConsole\obj\Debug\DataTableUsingConsole.pdb
