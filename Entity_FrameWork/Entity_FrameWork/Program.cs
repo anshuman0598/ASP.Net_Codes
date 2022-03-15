@@ -8,6 +8,9 @@ namespace Entity_FrameWork
     {
         public static void Main(string[] args)
         {
+            //Code First Approach
+
+
             //DISPLAY VALUES-----------------------------------------------
 
             //var db = new LearnEntityFrameWorkCoreDb();
