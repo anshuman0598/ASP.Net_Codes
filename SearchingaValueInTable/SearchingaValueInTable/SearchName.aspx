@@ -11,7 +11,7 @@
        <table width="40%" align="center">
            <tr>
                <td>
-               <asp:TextBox ID="name" runat="server" Width="395px"></asp:TextBox>
+               <asp:TextBox ID="age" runat="server" Width="395px"></asp:TextBox>
                </td>
                <td>
                    <asp:Button ID="search" runat="server" Text="Search" OnClick="search_Click" Width="148px" />

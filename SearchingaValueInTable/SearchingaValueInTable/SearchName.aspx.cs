@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data.SqlClient;
+using System.Data;
 namespace SearchingaValueInTable
 {
     public partial class SearchName : System.Web.UI.Page
@@ -19,23 +20,24 @@ namespace SearchingaValueInTable
             string source = "data source=DESKTOP-NARUTO\\SQL2019;initial catalog=Training2;integrated security=true;";
             SqlConnection conn = new SqlConnection(source);
             conn.Open();
-            SqlCommand cmd = new SqlCommand("Select * from Employee2 Where name = '"+name.Text+"'",conn);
+            string query = "Select * from Employee2 Where Age > " + age.Text  ;
+            SqlCommand cmd = new SqlCommand(query,conn);
 
-            SqlDataReader reader = cmd.ExecuteReader();
-            if (reader.Read()== true)
+            SqlDataAdapter ad = new SqlDataAdapter(query, conn);
+            DataSet ds = new DataSet();
+            ad.Fill(ds);
+            if (ds.Tables[0].Rows.Count > 0)
             {
-                reader.Close();
-                SqlDataReader rd = cmd.ExecuteReader();
-                Goutput.DataSource = rd;
+                Goutput.DataSource = ds;
                 Goutput.DataBind();
-                result.Text = "Search Successful";    
+                result.Text = "Search Successful";
             }
             else
             {
-                result.Text = "No Such Name Exist in Database";
+                result.Text = "Record Not Found";
+                Goutput.DataSource = ds;
+                Goutput.DataBind();
             }
-            conn.Close();
-
         }
     }
 }
