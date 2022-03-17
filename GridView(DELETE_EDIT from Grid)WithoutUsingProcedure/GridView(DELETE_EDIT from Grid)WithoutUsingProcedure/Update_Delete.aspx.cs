@@ -50,6 +50,8 @@ namespace GridView_DELETE_EDIT_from_Grid_WithoutUsingProcedure
             string mob = (row.FindControl("mobiletxt") as TextBox).Text;
             int age = Convert.ToInt32((row.FindControl("agetxt") as TextBox).Text);
             string gender = (row.FindControl("gendertxt") as TextBox).Text;
+            string email = (row.FindControl("email")as TextBox).Text;
+            string cemail = (row.FindControl("cemail") as TextBox).Text;
             string source = ConfigurationManager.ConnectionStrings["source"].ConnectionString;
             string query = "UPDATE Employee2 set Name=@0,Mobile=@1,Age=@2,Gender=@3 Where ID = @4";
             using (SqlConnection con = new SqlConnection(source))
