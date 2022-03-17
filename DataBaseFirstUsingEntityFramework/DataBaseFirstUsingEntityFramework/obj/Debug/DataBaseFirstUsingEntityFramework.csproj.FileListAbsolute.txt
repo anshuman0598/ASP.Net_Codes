@@ -1,0 +1,11 @@
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\bin\Debug\DataBaseFirstUsingEntityFramework.exe.config
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\bin\Debug\DataBaseFirstUsingEntityFramework.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\bin\Debug\DataBaseFirstUsingEntityFramework.pdb
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.csproj.AssemblyReference.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.csproj.CopyComplete
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.exe
+C:\Users\dasan\source\repos\ASP.Net_Codes\DataBaseFirstUsingEntityFramework\DataBaseFirstUsingEntityFramework\obj\Debug\DataBaseFirstUsingEntityFramework.pdb
