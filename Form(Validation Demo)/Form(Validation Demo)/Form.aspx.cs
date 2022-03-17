@@ -36,7 +36,7 @@ namespace Form_Validation_Demo_
                         cmd.ExecuteNonQuery();
                         Registered.Text = "Successfully Registered";
                     }
-                    catch (Exception ex)
+                    catch (Exception)
                     {
                         Registered.Text = "Not Registered Due to Invalid Input";
                     }
