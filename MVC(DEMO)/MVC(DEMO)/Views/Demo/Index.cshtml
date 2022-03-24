@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@*Age:@ViewBag.age
+<br/>
+Full Name : @ViewBag.fullname
+<br />
+Status : @ViewBag.status
+<br />
+Price : @ViewBag.price
+<br />
+BirthDay : @ViewBag.birthday.ToString("MM/dd/yyyy")*@
+
+<table border="1">
+    <tr>
+        <td>
+            ID
+        </td>
+        <td>@ViewBag.p.Id</td>
+    </tr>
+    <tr>
+        <td>
+            Photo
+        </td>
+        <td><img src ="~/Content/Image/Me.jpg" width="300"></td>
+    </tr>
+    <tr>
+        <td>
+            Name
+        </td>
+        <td>@ViewBag.p.Name</td>
+    </tr>
+    <tr>
+        <td>
+            Price
+        </td>
+        <td>@ViewBag.p.Price</td>
+    </tr>
+    <tr>
+        <td>
+            Quantity
+        </td>
+        <td>@ViewBag.p.Quantity</td>
+    </tr>
+</table>
